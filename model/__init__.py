@@ -1,1 +1,1 @@
-from and_model import AND
+from model.and_model import AND

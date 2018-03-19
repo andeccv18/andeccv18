@@ -203,6 +203,7 @@ def plot_video_score(video_id, frames, scores):
         ax1.set_ylim(np.min(scores), np.max(scores))
         ax1.set_ylabel('NLP')
         ax1.set_xlabel('Frames')
+        plt.pause(0.02)
 
 
 def main():

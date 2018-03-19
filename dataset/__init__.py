@@ -1,1 +1,1 @@
-from shanghaitech import SHANGHAITECH
+from dataset.shanghaitech import SHANGHAITECH
