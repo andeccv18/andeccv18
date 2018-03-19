@@ -1,0 +1,1 @@
+from and_model import AND

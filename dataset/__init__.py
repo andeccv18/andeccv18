@@ -1,0 +1,1 @@
+from shanghaitech import SHANGHAITECH
