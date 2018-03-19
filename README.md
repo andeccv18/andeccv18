@@ -4,7 +4,7 @@
 This repository serves as a demo of the behavior of Autoregressive
 Novelty Detection, on the Shanghai Tech dataset.
 
-The code has been developed in Pytorch 0.3.1 using a
+The code has been developed in Pytorch 0.3.1 (python 2.7) using a
 Nvidia Titan X.
 
 #### How to run the code.
